@@ -10,7 +10,7 @@ class Settings:
 
         #子弹设置
         self.bullet_speed = 2.0
-        self.bullet_width = 100000
+        self.bullet_width = 1
         self.bullet_height = 15
         self.bullet_color = (60,60,60)
         self.bullets_allow = 3 #限制子弹数量
